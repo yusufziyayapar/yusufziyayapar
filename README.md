@@ -2,7 +2,6 @@
 - 📚 I'm a first year electrical and electronics engineering student at Bahçeşehir University.
 - 👀 I'm interested in machine learning and artificial intelligence.
 - 🌱 I know the basics but I still have a lot to learn ; I am currently learning C and C++.
-- 🎯 After reaching a certain level in C and C++, my goal is to learn python.
 - 👨‍💻 In short, I am a university student who likes to code and is open to innovations and wants to improve myself.
 -
 📫 How to reach me ---> ysfzyyapar@gmail.com
